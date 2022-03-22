@@ -1,0 +1,4 @@
+Option, Age,Gender,Symptom1,Symptom2,Physical1,Physical2,Laboratory1,Laboratory2,Radiology,Question category
+"Iron deficiency anemia",20,"male","dry skin","","coarse hair","fragile skin","Free T4 levels were high.","","Thyroid ultrasound showed a cystic nodule in right lobe.","diagnosis"
+"Hypocholesterolemia",20,"female","elevated blood cholesterol level","slow heart rate" ,"brittle and broken nails","alopecia","Total serum thyroxine was low.","Free T4 levels were high.","Thyroid isotope scan showed diffuse increased uptake in both lobes.","Course of action"
+"Pituitary adenoma",61,"female","generalized fatigue/exhaustion","fatigue","bradycardia","","Antibodies to thyroid peroxidase were present at a high titer","","Thyroid isotope scan showed normal uptake in both lobes.","Prognosis"
